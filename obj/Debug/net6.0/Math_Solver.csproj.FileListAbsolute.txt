@@ -1,0 +1,15 @@
+D:\Random Stuff\Coding\C#\Math_Solver\bin\Debug\net6.0\Math_Solver.exe
+D:\Random Stuff\Coding\C#\Math_Solver\bin\Debug\net6.0\Math_Solver.deps.json
+D:\Random Stuff\Coding\C#\Math_Solver\bin\Debug\net6.0\Math_Solver.runtimeconfig.json
+D:\Random Stuff\Coding\C#\Math_Solver\bin\Debug\net6.0\Math_Solver.dll
+D:\Random Stuff\Coding\C#\Math_Solver\bin\Debug\net6.0\Math_Solver.pdb
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.csproj.AssemblyReference.cache
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.AssemblyInfoInputs.cache
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.AssemblyInfo.cs
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.csproj.CoreCompileInputs.cache
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.dll
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\refint\Math_Solver.dll
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.pdb
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\Math_Solver.genruntimeconfig.cache
+D:\Random Stuff\Coding\C#\Math_Solver\obj\Debug\net6.0\ref\Math_Solver.dll
